@@ -2,7 +2,8 @@
 #### I am a computer engineering student at Sakarya University and I am in my final year. I develop myself in Javascript and technologies.
 - 🌱 I’m currently learning React & React Native
 - 📫 How to reach me:
-<p><a href="https://www.linkedin.com/in/tarikoztoprak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="tarikoztoprak@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/tarikoztoprak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tarikoztoprak@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/tarik_oztoprak" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Takomak+Games" target="_blank"><img alt="GooglePlay" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 </p>
